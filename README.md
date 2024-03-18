@@ -1,5 +1,10 @@
-
-
+<div align = center>
+<h3> About me </h3>
+42Seoul Cadet : 2023.03 ~ 2023.12 <br>
+Soonsil Univ Software : 2021.03 ~ <br>
+멋쟁이사자처럼 Java 백엔드 스쿨 10기 : 2024.03 ~ <br>
+</div>
+<br>
 <div align = center>
 <h3>👩🏼‍💻 TIL </h3>
   <a href="https://velog.io/@minjiki2/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
@@ -28,6 +33,7 @@
 
 
 <h3> Most Used Languages </h3>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikimkim2222)](https://github.com/anuraghazra/github-readme-stats)
 
