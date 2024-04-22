@@ -8,8 +8,8 @@ Soongsil Univ Software : 2021.03 ~ <br>
 <div align = center>
 <h3>👩🏼‍💻 TIL </h3>
   <a href="https://velog.io/@minjiki2/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-  
+	
+ [![notion Badge](https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black)](https://bow-silk-851.notion.site/49d794d3c8a8479b97aa9859369f0586?v=78f8a0dfabd241568fcf5b7665e81fc9&pvs=4)
   
 
 <h3>📒Studying📒</h3>
