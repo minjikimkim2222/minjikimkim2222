@@ -2,7 +2,7 @@
 <h3> About me </h3>
 Soongsil Univ Software : 2021.03 ~ <br>
 42Seoul Cadet : 2023.03 ~ 2023.12 <br>
-멋쟁이사자처럼 Java 백엔드 스쿨 10기 : 2024.03 ~ <br>
+멋쟁이사자처럼 Java 백엔드 스쿨 7기 : 2024.03 ~ 2024.09 <br>
 </div>
 <br>
 <div align = center>
