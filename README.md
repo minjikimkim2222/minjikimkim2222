@@ -33,8 +33,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 
 <h3> Most Used Languages </h3>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikimkim2222)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikimkim2222&layout=compact&theme=dracula)
 
   <div align=center>
 	
