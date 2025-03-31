@@ -38,7 +38,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  <a href="https://hits.sh/github.com/minjikimkim2222/hits/"><img alt="Hits" src="https://hits.sh/github.com/minjikimkim2222/hits.svg"/></a>
 	
   </div>
   
