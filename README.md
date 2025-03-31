@@ -10,6 +10,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 <h3>👩🏼‍💻 TIL </h3>
   <a href="https://velog.io/@minjiki2/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
+<br>
 
 <h3>📒Studying📒</h3>
 <img src="https://img.shields.io/badge/C++-0067A3?style=flat-square&logo=C++&logoColor=white"/>
@@ -29,18 +30,23 @@ Soongsil Univ Software : 2021.03 ~ <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
-
+<br>
 
 <h3> Most Used Languages </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjikimkim2222&layout=compact&theme=dracula)
+
+
+<br>
+  
+<h3> Github Stats </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjikimkim2222&show_icons=true&theme=dracula)
 
   <div align=center>
 	
   <a href="https://hits.sh/github.com/minjikimkim2222/hits/"><img alt="Hits" src="https://hits.sh/github.com/minjikimkim2222/hits.svg"/></a>
 	
   </div>
-  
 
 </div>
-
