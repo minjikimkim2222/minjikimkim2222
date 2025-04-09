@@ -43,10 +43,6 @@ Soongsil Univ Software : 2021.03 ~ <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjikimkim2222&show_icons=true&theme=dracula)
 
-  <div align=center>
-	
-  <a href="https://hits.sh/github.com/minjikimkim2222/hits/"><img alt="Hits" src="https://hits.sh/github.com/minjikimkim2222/hits.svg"/></a>
-	
-  </div>
+
 
 </div>
