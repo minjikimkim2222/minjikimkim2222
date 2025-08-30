@@ -46,7 +46,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 | ------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------- |
 | **Movlit** <br> 사용자 맞춤 영화/도서 추천 및 실시간 채팅 서비스 (4인) | 2024.12 \~ 2025.02 (약 2개월) | Elasticsearch 기반 사용자 맞춤 영화·도서 추천, Redis Pub/Sub으로 실시간 채팅 구현                   | Java, Spring Boot, MongoDB, MySQL, Elasticsearch, JPA                              | [GitHub](https://github.com/venus-lion/movlit-plus) |
 | **PodMate** <br> 근거리 이웃과 함께하는 공동구매 서비스 (4인)       | 2025.04 \~ 2025.06 (약 2개월)  | JWT 기반 사용자 인증·인가, Selenium을 활용한 테스트 자동화, AWS 기반 인프라 구축 및 CI/CD 자동화            | Java, Spring Boot, MySQL, JPA, Spring Security, JWT, Selenium, AWS, GitHub Actions | [GitHub](https://github.com/SplitN-potmate/PodMate)     |
-| **BootHouse** <br> IT 부트캠프 정보 및 리뷰 플랫폼 (5인)       | 2024.07 \~ 2024.09 (약 2개월) | QueryDSL Projections로 성능 개선, Fetch Join으로 N+1 문제 해결, JMeter 성능 측정, 카카오 공유 API | Java, Spring Boot, PostgreSQL, JPA, QueryDSL                                       | [GitHub](https://github.com/BootHouse](https://github.com/minjikimkim2222/BootHouse))   |
+| **BootHouse** <br> IT 부트캠프 정보 및 리뷰 플랫폼 (5인)       | 2024.07 \~ 2024.09 (약 2개월) | QueryDSL Projections로 성능 개선, Fetch Join으로 N+1 문제 해결, JMeter 성능 측정, 카카오 공유 API | Java, Spring Boot, PostgreSQL, JPA, QueryDSL                                       | [GitHub](https://github.com/LikeLionTeam/BootHouse)   |
 
 <br>
 
