@@ -50,7 +50,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 
 <br>
 
-🔗 자세한 프로젝트 내용은 [Figma 포트폴리오](https://www.figma.com/design/HGPUZJET7mKqzHMq0VJLnc/%EA%B9%80%EB%AF%BC%EC%A7%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-54&t=Jgkdi9bRhETT3lmG-1) 를 참고하세요.
+🔗 자세한 프로젝트 내용은 [Figma 포트폴리오](https://www.figma.com/design/HGPUZJET7mKqzHMq0VJLnc/%EA%B9%80%EB%AF%BC%EC%A7%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1-54&t=Jgkdi9bRhETT3lmG-1) 를 참고해주세요.
 
 
 <br>
