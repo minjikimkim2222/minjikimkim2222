@@ -8,7 +8,7 @@
 <br>
 
 ## Education & Experience
-Soongsil Univ Software : 2021.03 ~ <br>
+Soongsil Univ Software : 2021.03 ~  <br>
 42Seoul Cadet : 2023.03 ~ 2023.12 <br>
 멋쟁이사자처럼 Java 백엔드 스쿨 7기 : 2024.03 ~ 2024.09 <br>
 멋쟁이사자처럼 백엔드 부트캠프 플러스 2기 : 2024.12.9 ~ 2025.02.14 <br>
@@ -59,7 +59,7 @@ Soongsil Univ Software : 2021.03 ~ <br>
 ## Activity
 | 구분     | 이름                               | 활동/역할                                  | 기간              |
 |----------|----------------------------------|-------------------------------------------|-------------------|
-| 동아리   | **9oormthon UNIV SSU 4기**       | Spring Boot 파트 동아리원, 스터디 참여  | 2025.03 ~ 진행중  |
+| 동아리   | **9oormthon UNIV SSU 4기**       | Spring Boot 파트 동아리원, 스터디 참여  | 2025.03 ~ 2025.12  |
 | LLM 공부 | **StudyAI: AI 학습 특화 챗봇 서비스 (4등/11팀)** | LLM 기반 학습 보조 서비스 **2주 MVP 개발**<br>🔗 [프로젝트 상세 보기](https://github.com/ict-team-8/StudyAI) | 2025.08 (2주)     |
 
 <br>
