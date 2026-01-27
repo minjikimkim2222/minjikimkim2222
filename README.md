@@ -8,7 +8,7 @@
 <br>
 
 ## Education & Experience
-Soongsil Univ Software : 2021.03 ~  <br>
+Soongsil Univ Software : 2021.03 ~ 2026.02 (수료) <br>
 42Seoul Cadet : 2023.03 ~ 2023.12 <br>
 멋쟁이사자처럼 Java 백엔드 스쿨 7기 : 2024.03 ~ 2024.09 <br>
 멋쟁이사자처럼 백엔드 부트캠프 플러스 2기 : 2024.12.9 ~ 2025.02.14 <br>
